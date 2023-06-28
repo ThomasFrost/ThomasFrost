@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ThomasFrost
+- 👀 I’m interested in Computer Science!
+- 💞️ I’m looking to collaborate on projects!
+- 📫 You can reach me through email.
